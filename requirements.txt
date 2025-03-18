@@ -1,0 +1,15 @@
+flask
+nltk
+transformers 
+pymongo
+ipykernel
+torch
+uvicorn
+fastapi
+dotenv
+spacy
+sentencepiece
+transformers
+#execute this command to download the spacy model:
+#python -m spacy download en_core_web_sm
+fastapi[all]
